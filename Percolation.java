@@ -104,6 +104,7 @@ public class Percolation {
         return this.obj2.connected(this.size * this.size + 1, this.size * this.size);
 
     }
+//this is a test
 
 
 }
